@@ -1,0 +1,10 @@
+git init			erstellt Git Repository für den aktuellen Ordner
+
+git status			zeigt Status des aktuellen Ordners an (sind neue Dateien hinzugekommen, geändert worden, etc.)
+
+git add filename.ext		fügt angegebene Datei zur Staging Area hinzu
+git add *.ext			fügt alle Dateien mit angegebener Endung im Ordner zur Staging Areahinzu
+git add .			fügt alle Dateien im Ordner zur Staging Areahinzu
+git rm --cached filename.ext	enfernt angegebene Datei aus Staging Area
+
+git commit -m "message"		commited Staging Area und fügt angegebene Nachricht an Commit an
