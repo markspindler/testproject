@@ -1,3 +1,5 @@
+git				listet alle Git Befehle auf
+
 git init			erstellt Git Repository für den aktuellen Ordner
 
 git status			zeigt Status des aktuellen Ordners an (sind neue Dateien hinzugekommen, geändert worden, etc.)
