@@ -22,3 +22,4 @@ git remote add origin <URL>	verbindet ein lokales Repository mit GitHub
 git push -u origin master	lädt lokales Repository zu GitHub hoch
 git push			lädt Änderungen in lokalem Repository zu GitHub hoch
 git pull			lädt Repository von GitHub herunter
+git clone <URL>			lädt Repository als neuen Ordner herunter und legt dort neues lokales Repository an
