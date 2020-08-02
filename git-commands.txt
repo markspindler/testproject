@@ -10,3 +10,9 @@ git add .			fügt alle Dateien im Ordner zur Staging Areahinzu
 git rm --cached filename.ext	enfernt angegebene Datei aus Staging Area
 
 git commit -m "message"		commited Staging Area und fügt angegebene Nachricht an Commit an
+
+
+
+git branch branchname		erstellt einen neuen Branch "branchname" (wechselt aber nicht zu diesem)
+git checkout branchname		wechselt zum Branch "branchname"
+git merge branchname		fügt den Branch "branchname" zum aktuellen Branch hinzu
