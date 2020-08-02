@@ -20,3 +20,5 @@ git merge branchname		fügt den Branch "branchname" zum aktuellen Branch hinzu
 
 git remote add origin <URL>	verbindet ein lokales Repository mit GitHub
 git push -u origin master	lädt lokales Repository zu GitHub hoch
+git push			lädt Änderungen in lokalem Repository zu GitHub hoch
+git pull			lädt Repository von GitHub herunter
