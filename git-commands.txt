@@ -10,3 +10,7 @@ git add .			fügt alle Dateien im Ordner zur Staging Areahinzu
 git rm --cached filename.ext	enfernt angegebene Datei aus Staging Area
 
 git commit -m "message"		commited Staging Area und fügt angegebene Nachricht an Commit an
+
+
+
+#test
