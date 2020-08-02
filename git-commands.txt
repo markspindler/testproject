@@ -16,3 +16,7 @@ git commit -m "message"		commited Staging Area und fügt angegebene Nachricht an
 git branch branchname		erstellt einen neuen Branch "branchname" (wechselt aber nicht zu diesem)
 git checkout branchname		wechselt zum Branch "branchname"
 git merge branchname		fügt den Branch "branchname" zum aktuellen Branch hinzu
+
+
+git remote add origin <URL>	verbindet ein lokales Repository mit GitHub
+git push -u origin master	lädt lokales Repository zu GitHub hoch
