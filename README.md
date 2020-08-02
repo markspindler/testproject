@@ -1,2 +1,2 @@
 # Test project
-This is a test project to learn GitHub
+This is my first test project to learn GitHub
